@@ -9,6 +9,9 @@ from pprint import pprint
 # Start here:
 # https://spotipy.readthedocs.io/en/latest/
 
+# Register your app here and get your client ID and secret:
+# https://developer.spotify.com/dashboard/applications
+
 # Then, modify with this, and it works:
 # https://github.com/plamere/spotipy/issues/194#issuecomment-315458391
 
